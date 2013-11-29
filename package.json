@@ -1,0 +1,33 @@
+{
+  "name": "jsqm",
+  "version": "0.0.1",
+  "author": "Benedikt Lang",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "jasmine-node": "~1.11.0",
+    "karma": "~0.10.4",
+    "karma-jasmine": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-firefox-launcher": "~0.1.0",
+    "karma-ng-scenario": "~0.1.0",
+    "karma-junit-reporter": "git://github.com/karma-runner/karma-junit-reporter#karma-0.11",
+    "karma-sauce-launcher": "~0.1.1",
+    "karma-script-launcher": "~0.1.0",
+    "yaml-js": "~0.0.8",
+    "marked": "~0.2.9",
+    "rewire": "1.1.3",
+    "grunt-jasmine-node": "~0.1.0",
+    "grunt-parallel": "~0.3.1",
+    "grunt-ddescribe-iit": "~0.0.1",
+    "grunt-merge-conflict": "~0.0.1",
+    "promises-aplus-tests": "~1.3.2",
+    "grunt-shell": "~0.4.0",
+    "semver": "~2.1.0",
+    "lodash": "~2.1.0",
+    "grunt-karma": "~0.6.2"
+  }
+}
